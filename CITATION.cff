@@ -15,4 +15,9 @@ authors:
     given-names: Somia
     affiliation: "RLP Laboratory, Mohamed Khider University of Biskra"
 license: MIT
-# TODO after publishing: add `repository-code:` (GitHub URL) and `doi:` (Zenodo DOI)
+doi: 10.5281/zenodo.24042266
+repository-code: "https://github.com/inaidji/Federated-WSN-DS-aggregation-study"
+references:
+  - type: dataset
+    title: "Stored predictions of all federated runs (supplement to this software)"
+    doi: 10.5281/zenodo.24042305

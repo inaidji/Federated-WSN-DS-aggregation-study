@@ -54,7 +54,7 @@ python analysis/analyze_main.py && python analysis/analyze_poison.py
 python analysis/analyze_sweep.py && python analysis/make_figures.py
 ```
 
-Re-running only step 4 on the stored predictions (Zenodo archive, unpack inside `noniid/`) reproduces all
+Re-running only step 4 on the stored predictions (Zenodo dataset, doi:10.5281/zenodo.24042305; unpack inside `noniid/`) reproduces all
 reported metrics without any training. The archive keeps, for every run, the global model's predicted
 probabilities on every client's validation and test sets for the last five rounds, the per-round metric
 histories, and the Krum selection logs.
