@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.DS_Store
+# run outputs (large): regenerate, or download the archive from Zenodo
+noniid/v4/main/
+noniid/v4/poison/
+noniid/sweep/dir/
+noniid/sweep/tune/
+noniid/sweep/tune_bn/
+noniid/sweep/tuned/
+noniid/sweep/bn/
+noniid/sweep/data/
+noniid/sweep/jobs_*.txt
+noniid/data/
+noniid/data_k5/
+# the dataset itself is not redistributed here
+data/WSN-DS_part*.csv
+figures/

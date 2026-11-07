@@ -1,0 +1,8 @@
+# versions used for all reported results (Python 3.11)
+flwr==1.17.0
+tensorflow==2.16.1
+scikit-learn==1.3.0
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+matplotlib==3.7.2

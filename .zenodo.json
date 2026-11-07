@@ -1,0 +1,33 @@
+{
+  "title": "Federated anomaly detection in wireless sensor networks: aggregation strategies under data heterogeneity and poisoning attacks (code and results)",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Tibermacine, Ahmed",
+      "affiliation": "LESIA Laboratory, Mohamed Khider University of Biskra"
+    },
+    {
+      "name": "Naidji, Ilyes",
+      "affiliation": "RLP Laboratory, Mohamed Khider University of Biskra"
+    },
+    {
+      "name": "Ramdani, Mohamed",
+      "affiliation": "Linfi laboratory, Mohamed Khider University of Biskra"
+    },
+    {
+      "name": "Sahraoui, Somia",
+      "affiliation": "RLP Laboratory, Mohamed Khider University of Biskra"
+    }
+  ],
+  "keywords": [
+    "federated learning",
+    "wireless sensor networks",
+    "anomaly detection",
+    "aggregation strategies",
+    "poisoning attacks",
+    "WSN-DS"
+  ],
+  "description": "Code, run scripts and result summaries for the article. Per-run predictions are archived separately (wsn_fl_predictions.tar.gz)."
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article (and this archive, once a DOI exists)."
+title: "Federated anomaly detection in wireless sensor networks: aggregation strategies under data heterogeneity and poisoning attacks (code and results)"
+authors:
+  - family-names: Tibermacine
+    given-names: Ahmed
+    affiliation: "LESIA Laboratory, Mohamed Khider University of Biskra"
+  - family-names: Naidji
+    given-names: Ilyes
+    affiliation: "RLP Laboratory, Mohamed Khider University of Biskra"
+  - family-names: Ramdani
+    given-names: Mohamed
+    affiliation: "Linfi laboratory, Mohamed Khider University of Biskra"
+  - family-names: Sahraoui
+    given-names: Somia
+    affiliation: "RLP Laboratory, Mohamed Khider University of Biskra"
+license: MIT
+# TODO after publishing: add `repository-code:` (GitHub URL) and `doi:` (Zenodo DOI)
